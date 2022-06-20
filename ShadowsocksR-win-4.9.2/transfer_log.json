@@ -1,0 +1,26 @@
+{
+	"node1.onescloud.top" : {
+		"totalUploadBytes" : 859021830,
+		"totalDownloadBytes" : 181461814343
+	},
+	"gdcm-2.onescloud.top" : {
+		"totalUploadBytes" : 978142664,
+		"totalDownloadBytes" : 69998417429
+	},
+	"sp1.szhkg.xlddns.xyz" : {
+		"totalUploadBytes" : 27060628,
+		"totalDownloadBytes" : 3241415447
+	},
+	"gdcm-1.onescloud.top" : {
+		"totalUploadBytes" : 1955427283,
+		"totalDownloadBytes" : 248234451714
+	},
+	"xxpb.shcn2.xlddns.xyz" : {
+		"totalUploadBytes" : 46434578,
+		"totalDownloadBytes" : 11409932724
+	},
+	"jscu-1.onescloud.top" : {
+		"totalUploadBytes" : 69073341,
+		"totalDownloadBytes" : 2150051012
+	}
+}
